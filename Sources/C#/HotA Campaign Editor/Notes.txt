@@ -1,1 +1,7 @@
-﻿
+﻿Heroes of Might and Magic III
+Horn of the Abyss (unofficial expansion-pack)
+Campaign Editor
+
+Version: C# 7.2 (.NET Framework v4.7.2)
+Compiler: Visual C#
+IDE: Visual Studio Community 2017
