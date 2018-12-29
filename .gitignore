@@ -3,6 +3,8 @@
 
 # User-specific files
 *.suo
+*.lock
+*.ide
 *.user
 *.userosscache
 *.sln.docstates
