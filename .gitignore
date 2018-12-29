@@ -40,4 +40,6 @@ ipch/
 # Executables
 [Bb]uild/
 
+# Others
+.vs/
 *.DS_STORE
